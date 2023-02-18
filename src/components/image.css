@@ -1,0 +1,33 @@
+ .image_container{
+    display: grid;
+    
+    grid-template-columns: 0.8fr;
+    width: 100px;
+    margin-top: 40px;
+    margin-bottom: -40px;
+   
+    margin-left: 30%;
+    
+    
+    
+}
+.image_container1{
+    background-color: rgb(241, 241, 249);
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+ 
+}
+.product_img{
+   
+    height: 40px;
+    width: 40px;
+    
+}
+.product_name{
+    font-size: 1rem;
+    margin-top: 10px;
+}
